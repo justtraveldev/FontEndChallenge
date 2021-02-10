@@ -34,7 +34,7 @@ Nós iremos avaliar a qualidade técnica do código CSS, HTML e Javascript além
 Envio da solução
 -------------------------
 
-Você deverá criar um fork deste repositório, incluir o seu código fonte na pasta ``src``,  preencher o formulário "_about/SummonerProfile.md" e enviar para recruta.tech@nibo.com.br o link do seu fork.
+Você deverá criar um fork deste repositório, incluir o seu código fonte na pasta ``src``,  preencher o formulário "_about/SummonerProfile.md" e enviar para uasden@gmail.com o link do seu fork.
 
 Tenha capricho com seu código e com o resultado final.
 
