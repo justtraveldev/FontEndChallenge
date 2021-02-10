@@ -1,4 +1,4 @@
-<p align="center"><img src="https://www.nibo.com.br/logo-nibo.png" width="150" /></p>
+
 <h1 align="center">Just Travel Front-end Challenge - Level 1</h1>
 
 
